@@ -1,0 +1,49 @@
+baseURL: "https://example.org/"
+languageCode: "de-de"
+title: "Better Stundenplan"
+theme: ["PaperMod"]
+
+params:
+  author: "LarvenStein"
+  description: "Ein (hoffentlich) nicht ganz so schlechter Client für virtueller-stundenplan.org."
+  defaultTheme: "auto" # Ermöglicht automatischen Dark-/Light-Mode
+  ShowReadingTime: true # Zeigt die geschätzte Lesedauer an
+  ShowShareButtons: true # Aktiviert Teilen-Buttons
+  ShowBreadCrumbs: true # Zeigt Breadcrumbs zur besseren Navigation
+  ShowPostNavLinks: true # Nächster/Vorheriger Beitrag anzeigen
+  ShowWordCount: true # Zeigt die Wortanzahl an
+  ShowToc: true # Aktiviert das Inhaltsverzeichnis
+  TocOpen: false # Inhaltsverzeichnis standardmäßig zugeklappt
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 1
+    - identifier: features
+      name: Features
+      url: /#📌-features
+      weight: 2
+    - identifier: download
+      name: Download
+      url: /#📥-download
+      weight: 3
+    - identifier: github
+      name: GitHub
+      url: https://github.com/LarvenStein/better-stundenplan
+      target: _blank
+  footer:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 1
+
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true # Erlaubt HTML in Markdown
+
+outputs:
+  home: ["HTML", "RSS", "JSON"] # JSON für z. B. Algolia-Suche
