@@ -1,4 +1,4 @@
-baseURL: "https://example.org/"
+baseURL: "https://better-stundenplan.eike.in/"
 languageCode: "de-de"
 title: "Better Stundenplan"
 theme: ["PaperMod"]
