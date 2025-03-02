@@ -6,7 +6,7 @@ tags: ["Stundenplan", "Schule", "App"]
 showToc: true
 ---
 
-![play_store_feature_graphic](https://github.com/user-attachments/assets/ae479d49-64f3-4796-bc47-21df2f6c2fb8)
+![Header banner](/images/header_image.png)
 
 # Better Stundenplan
 
@@ -30,17 +30,17 @@ Das Projekt ist Open Source! Schau dir den Code an oder trage selbst etwas bei:
 ### 🗓 Wochenansicht
 Zeigt den Stundenplan für eine ganze Woche an, ähnlich wie auf [virtueller-stundenplan.org/page-5/](https://virtueller-stundenplan.org/page-5/).
 
-![Wochenansicht](https://github.com/user-attachments/assets/06ad1201-7332-4eba-a9a2-a13776e94fe4)
+![Wochenansicht](/images/demo_weekly.png)
 
 ### 📅 Tagesansicht
 Zeigt den Stundenplan für einen einzelnen Tag an, vergleichbar mit [virtueller-stundenplan.org/page2/](https://virtueller-stundenplan.org/page2/).
 
-![Tagesansicht](https://github.com/user-attachments/assets/9b4f42ee-1f79-4adc-a010-241c55a718e2)
+![Tagesansicht](/images/demo_daily.png)
 
 ### 🔍 Detailansicht
 Zeigt detaillierte Informationen zu einer Unterrichtsstunde an. Hier können zudem Aliasse für Fächer, Lehrkräfte und Räume festgelegt werden (z. B. „PO“ für „Politik“).
 
-![Detailansicht](https://github.com/user-attachments/assets/c657e582-94c8-47e5-b54b-1425fa59237b)
+![Detailansicht](/images/demo_details.png)
 
 ---
 
