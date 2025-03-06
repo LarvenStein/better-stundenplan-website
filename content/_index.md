@@ -1,8 +1,7 @@
 ---
 title: "Better Stundenplan"
-date: 2025-03-02
 description: "Ein (hoffentlich) nicht ganz so schlechter Client für virtueller-stundenplan.org."
-tags: ["Stundenplan", "Schule", "App"]
+tags: ["Stundenplan", "Schule", "App", "Virtueller Stundenplan", "Virtueller Stundenplan App"]
 showToc: true
 ---
 
@@ -13,8 +12,6 @@ showToc: true
 Willkommen bei **Better Stundenplan**, einer App zur besseren Darstellung deines Stundenplans von [virtueller-stundenplan.org](https://virtueller-stundenplan.org).
 
 Dieses Projekt entsteht im Rahmen eines Schulprojekts, in dem wir mit Unterstützung Künstlicher Intelligenz eine App entwickeln.
-
-> **Wichtig:** Die App befindet sich noch in der Entwicklung und erfordert weitere Arbeit.
 
 ---
 
@@ -46,7 +43,9 @@ Zeigt detaillierte Informationen zu einer Unterrichtsstunde an. Hier können zud
 
 ## 📥 Download
 
-Derzeit gibt es noch keine offizielle Download-Version der App. Sobald sie veröffentlicht wird, findest du sie hier.
+Aktuell stelle ich nur einen .apk Download für die App bereit. Zukünftig Veröffentliche ich sie vielleicht in einigen Stores :)
+
+[![](/images/apk-badge.png)](https://github.com/LarvenStein/better-stundenplan/releases)
 
 <!--
 <div style="text-align: center; margin-top: 20px;">
@@ -59,8 +58,7 @@ Derzeit gibt es noch keine offizielle Download-Version der App. Sobald sie verö
 </div>
 -->
 
-**Zukünftige Pläne:**  
-📲 Veröffentlichung auf **F-Droid** und im **Google Play Store**, sobald die App in einem stabilen Zustand ist.  
-❌ Eine **Web- oder iOS-Version** ist aktuell nicht geplant.
-
 ---
+
+## Posts
+Neuigkeiten zu diesem Projekt
