@@ -42,4 +42,4 @@ Am 26. September 2024 habe ich dieses Problem erneut gemeldet und dabei sogar au
 
 ## Fazit
 
-Die Kombination aus schlechtem Design, fehlerhafter Implementierung und peinlichen Sicherheitslücken macht den "Virtuellen Stundenplan" zu einer, meiner Meinung nach, gefährlichen Software, deren Einsatz in Bildungseinrichtungen dringend überdacht werden sollte.
+Die Idee einer BBS-Verwaltungs-Software wie dem "Virtuellen Stundenplan" ist grundsätzlich gut und könnte bei richtiger Umsetzung den Schulalltag erheblich erleichtern. Leider lässt die aktuelle Implementierung stark zu wünschen übrig. Die Kombination aus unübersichtlichem Design, fehlerhafter Programmierung und vor allem den Sicherheitslücken macht den "Virtuellen Stundenplan" in seiner jetzigen Form zu einer problematischen Software, deren Einsatz in Bildungseinrichtungen kritisch hinterfragt werden sollte. Mit einer grundlegenden Überarbeitung, insbesondere im Hinblick auf die Sicherheitsaspekte, könnte das Potenzial einer solchen Lösung jedoch durchaus zur Entfaltung kommen.
