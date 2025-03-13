@@ -6,8 +6,15 @@
     <description>Recent content in Virtueller Stundenplan App on Better Stundenplan</description>
     <generator>Hugo -- 0.126.2</generator>
     <language>de-de</language>
-    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/virtueller-stundenplan-app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FAQ zu Better Stundenplan</title>
+      <link>http://localhost:1313/posts/faq/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/faq/</guid>
+      <description>Hier beantworte ich häufig gestellte fragen zu Better Stundenplan</description>
+    </item>
     <item>
       <title>Better Stundenplan vs Virtueller Stundenplan</title>
       <link>http://localhost:1313/posts/better-stundenplan-vs-mybbs/</link>
