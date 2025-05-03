@@ -43,9 +43,14 @@ Zeigt detaillierte Informationen zu einer Unterrichtsstunde an. Hier können zud
 
 ## 📥 Download
 
-Aktuell stelle ich nur einen .apk Download für die App bereit. Zukünftig Veröffentliche ich sie vielleicht in einigen Stores :)
+Aktuell steht die App auf f-droid und als APK bereit :)
 
-[![](/images/apk-badge.png)](https://github.com/LarvenStein/better-stundenplan/releases)
+[<img src="https://f-droid.org/badge/get-it-on-de.png"
+    alt="Jetzt bei F-Droid"
+    height="100">](https://f-droid.org/packages/in.eike.better_stundenplan)
+[<img src="/images/apk-badge.png"
+    alt="APK Download"
+    height="80">](https://github.com/LarvenStein/better-stundenplan/releases)
 
 <!--
 <div style="text-align: center; margin-top: 20px;">
