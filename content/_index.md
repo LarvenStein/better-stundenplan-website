@@ -52,15 +52,7 @@ Aktuell steht die App auf f-droid und als APK bereit :)
     alt="APK Download"
     height="80">](https://github.com/LarvenStein/better-stundenplan/releases)
 
-<!--
-<div style="text-align: center; margin-top: 20px;">
-    <a href="#" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" width="200" />
-    </a>
-    <a href="#" target="_blank" style="margin-left: 10px;">
-        <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" width="200" />
-    </a>
-</div>
+
 -->
 
 ---

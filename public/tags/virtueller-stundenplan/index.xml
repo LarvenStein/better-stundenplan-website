@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Virtueller Stundenplan on Better Stundenplan</title>
-    <link>http://localhost:1313/tags/virtueller-stundenplan/</link>
+    <link>https://better-stundenplan.eike.in/tags/virtueller-stundenplan/</link>
     <description>Recent content in Virtueller Stundenplan on Better Stundenplan</description>
     <generator>Hugo -- 0.142.0</generator>
     <language>de-de</language>
     <lastBuildDate>Thu, 27 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/virtueller-stundenplan/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://better-stundenplan.eike.in/tags/virtueller-stundenplan/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FAQ zu Better Stundenplan</title>
-      <link>http://localhost:1313/posts/faq/</link>
+      <link>https://better-stundenplan.eike.in/posts/faq/</link>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/faq/</guid>
+      <guid>https://better-stundenplan.eike.in/posts/faq/</guid>
       <description>Hier beantworte ich häufig gestellte fragen zu Better Stundenplan</description>
     </item>
     <item>
       <title>Virtueller Stundenplan: Eine Gefahr für Sicherheit und Nerven</title>
-      <link>http://localhost:1313/posts/virtueller-stundenplan-ein-disaster/</link>
+      <link>https://better-stundenplan.eike.in/posts/virtueller-stundenplan-ein-disaster/</link>
       <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/virtueller-stundenplan-ein-disaster/</guid>
+      <guid>https://better-stundenplan.eike.in/posts/virtueller-stundenplan-ein-disaster/</guid>
       <description>Peinliche Sicherheitslücken und Dinge, die man einfach nicht macht</description>
     </item>
     <item>
       <title>Better Stundenplan vs Virtueller Stundenplan</title>
-      <link>http://localhost:1313/posts/better-stundenplan-vs-mybbs/</link>
+      <link>https://better-stundenplan.eike.in/posts/better-stundenplan-vs-mybbs/</link>
       <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/better-stundenplan-vs-mybbs/</guid>
+      <guid>https://better-stundenplan.eike.in/posts/better-stundenplan-vs-mybbs/</guid>
       <description>Ein Vergleich zwischen Better Stundenplan und Virtueller Stundenplan sowie deren offizieller App</description>
     </item>
   </channel>
