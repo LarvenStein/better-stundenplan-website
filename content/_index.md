@@ -53,8 +53,6 @@ Aktuell steht die App auf f-droid und als APK bereit :)
     height="80">](https://github.com/LarvenStein/better-stundenplan/releases)
 
 
--->
-
 ---
 
 ## Posts
