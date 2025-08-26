@@ -15,7 +15,7 @@ Die App verwendet, sofern verfügbar, die Material You Farben deines Handys, ans
 
 ## iOS App
 Eine iOS-App ließe sich theoretisch aus meinem Code kompilieren, davon sehe ich aktuell aber ab, da das Veröffentlichen für iOS entweder einiges an Geld oder eine komplizierte Sideloading-Prozedur erfordert.
-Falls du Lust hast, in der Hinsicht etwas zu experimentieren, [schreib mich gerne an](mailto:me@eike.in) :)
+Du kannst gerne versuchen, die App für dein iPhone zu kompilieren, [melde dich mit Ergebnissen gerne bei mir](mailto:me@eike.in) :)
 
 ## Woher kommen die Daten?
 An die Daten des Stundenplans komme ich, indem die App normale Anfragen an die Website des Stundenplans wie ein normaler Besucher sendet und aus dem HTML dann benötigte Daten extrahiert.
